@@ -77,7 +77,7 @@ Clone the Repository
 bash
 Copy
 Edit
-git clone https://github.com/YOUR_USERNAME/ReWear.git
+git clone https://github.com/YashBachwani/ReWear.git
 cd ReWear
 Install Dependencies
 
@@ -104,9 +104,6 @@ Login / Signup
 Use Login.jsx or Signup.jsx to access the dashboard.
 
 On submitting clothing via Swap, a toast notification will credit points.
-
-🌐 Live Demo
-🔗 https://rewear.vercel.app 
 
 📸 UI Screens
 Landing Page with Carousel
