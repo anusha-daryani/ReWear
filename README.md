@@ -113,7 +113,7 @@ Landing Page with Carousel
 
 Add Item Form
 
-Browse Items Page
+Browse Items Pages
 
 User Dashboard
 
